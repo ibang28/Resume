@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 font-icon: /assets/css/font-awesome-4.7.0/css/font-awesome.min.css
 
 # 你的求职方向，比如前端开发工程师等
-title: NBA球员/小前锋/大前锋/控卫
+title: Android App/FrameWork Developer  React Web Developer
 
 # 对你自己的简洁描述
 description: 小皇帝篮球智商极高、突破犀利，拥有出色的视野和传球技术，被认为是NBA有史以来最为全能的球员之一
@@ -11,25 +11,34 @@ description: 小皇帝篮球智商极高、突破犀利，拥有出色的视野�
 logo: /assets/images/me.jpg
 
 # 你的名字
-name: 勒布朗·詹姆斯(LeBron James)
+name: WuBang Lei
 
 # 你的联系方式
-phone: 188888888888
+phone: 18376621242
 
 # 你的邮箱
-email: LeBron@unkown.com
+email: raywubang@gmail.com
 
 # 你目前的住址
-address: 美国洛杉矶
+address:  Shenzhen, Guangdong Province , China 
 
 # 你毕业院校
-school: 圣文森特·圣玛丽高中
+school: Northern University for Nationalities
 
 # 你的专业
-profession: 专业篮球运动员
+profession: Material Forming and Control Engineering
 
 # 你的学位
-degree: 高中没毕业
+degree: undergraduate 
+
+# 专业技能
+skills：1. Proficient in Java fundamentals and advanced Android technologies 
+2. Familiar with Kotlin Android development, proficient in Android JNI technology, and good mastery of H5/React technology 
+3. Proficient in using C++and QML basics, proficient in QT application development, proficient in developing in Linux window environment 
+4. Familiar with shell spec scripts and proficient in using xftp xshell 
+5. Proficient in using Fiddler Postman Charles tool 
+6. Proficient in using git svn TortoiseSVN version management tool
 
 # 你获得过的证书或奖励
-credential: 三届MVP/三届NBA冠军
+credential: National Computer Level 2/CET-4/National Basketball Referee Level 2 Certificate/
+
